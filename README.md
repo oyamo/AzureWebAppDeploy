@@ -1,2 +1,2 @@
 # AzureWebAppDeploy
-Simple Web App for Automating Azure Flask Web App Deployment
+Simple Bash Script for Automating Azure Flask Web App Deployment
